@@ -3,5 +3,6 @@ public class Hw2Number1{
 		System.out.println("2291010 임수미");
 		System.out.println("2291010 임수미");
 		System.out.println("2291010 임수미");
+		System.out.println("2291010 임수미");
 	}
 }
